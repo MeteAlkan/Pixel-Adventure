@@ -1,2 +1,2 @@
 # Pixel-Adventure
-A template unfinished game that created different enemy classes and some example levels.
+An unfinished game template that has differnet enemies and some example levels.
